@@ -1,0 +1,5 @@
+﻿print(chr(97))
+print("%c" % 97)
+print("{0:c}".format(97))
+print(ord("한"))
+print(chr(54620))
